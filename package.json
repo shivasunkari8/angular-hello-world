@@ -18,5 +18,8 @@
     "copy-webpack-plugin": "^4.0.1",
     "webpack": "^1.14.0",
     "webpack-dev-server": "^1.16.2"
+  },
+  "devDependencies": {
+    "protractor": "^4.0.14"
   }
 }

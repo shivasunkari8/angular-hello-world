@@ -5,7 +5,7 @@ class HelloWorldController {
     }
     constructor($scope) {
         this.$scope = $scope;
-        this.$scope.name = 'Hari';
+        this.$scope.name = 'World';
     }
 }
 export default HelloWorldController;
